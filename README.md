@@ -1,4 +1,4 @@
-# Port Scanner
+# Port-Scan
 
 This Bash script is a simple port scanner that checks the open ports on the local machine (127.0.0.1) by attempting to establish a TCP connection on each port from 1 to 65535. The script uses concurrency to speed up the scanning process and displays any open ports.
 
